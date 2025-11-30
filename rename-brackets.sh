@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Directory containing files
-dir="$HOME/Music/Nepali"
+dir="/path/to/the/directory"
 
 # Loop through all files in the directory
 shopt -s nullglob
